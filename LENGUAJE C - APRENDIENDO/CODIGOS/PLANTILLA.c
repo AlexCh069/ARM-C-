@@ -1,0 +1,18 @@
+// TITULO O REFERENCIA A ARCHIVO (SOLO EN COMENTARIO)
+
+// LIBRERIAS
+#include <stdio.h>
+
+// CONSTANTES SIMBOLICAS
+
+// DECLARACION DE VARIABLES GLOBALes 
+
+// main - CUERPO PRINCIPAL
+int main(){
+    // VARIABLES locales de funcion
+
+    // PROCESO PRINCIPAL
+
+}
+
+// Funciones EXTRA
